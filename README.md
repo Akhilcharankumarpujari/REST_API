@@ -34,6 +34,6 @@ The API manages book records with basic CRUD operations. Data is stored in memor
 
 ```json
 {
-  "name": "Manasa",
-  "roll_number": 101
+  "name": "Charan",
+  "roll_number": 4937
 }
